@@ -3,7 +3,8 @@ Hello there!<br>I am a 21-year-old student of the Faculty of Mechanics and Mathe
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ncrl.s/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ncrl.s/)
+
 [![Telegram](https://img.shields.io/badge/Telegram-249EDC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/n_crls)
 
 # 💻 Tech Stack:
