@@ -1,5 +1,5 @@
 # About Me:
-Hello there!<br>I am a 21-year-old student of the Faculty of Mechanics and Mathematics at Moscow State University. <br>I am studying at the Department of Mathematical Statistics and Stochastic Processes.<br>My research focuses on the generalization of sequential analysis to the case of two alternatives.<br>I am currently studying algorithms and Deep Learning. <br>
+Hi there!<br>I am a 21-year-old student of the Faculty of Mechanics and Mathematics at Moscow State University. <br>I am studying at the Department of Mathematical Statistics and Stochastic Processes.<br>My research focuses on the generalization of sequential analysis to the case of two alternatives.<br>I am currently studying algorithms and Deep Learning. <br>
 
 
 ## 🌐 Socials:
